@@ -1,0 +1,50 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: black;
+  color: white;										
+}
+
+#index{ 
+  padding: 50px;
+  text-align: center;
+}
+
+#welcome{
+  padding: 50px;
+  text-align: center;
+}
+
+#canciones{
+  padding: 50px;
+  color: black;  		    
+  text-align: left;
+}
+
+#add{	  
+  padding: 50px;
+  color: black;
+}
+ 
+#update{
+  padding: 50px;
+  color: black;
+}
+
+a {
+  color: #00B7FF;
+}
+
+img {
+  align: center;
+  width: 400px;
+  heigth: 400px;
+}
+
+p {
+  text-align: center;
+  color: white;
+}
+
+div {
+  padding: 5px;
+}
